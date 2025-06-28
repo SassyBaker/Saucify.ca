@@ -14,7 +14,7 @@ E-Com site that sells food items. Stack is Django/Python, HTML/HTMX, and Tailwin
 
 ### Add Payment gateways:
 - Helcim (Calgary company) - https://www.helcim.com/
-- Paypal
+- Paypal, Strip, or Square
   
 ### Add shipping, 
 - Local pickup,
