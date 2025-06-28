@@ -2,7 +2,7 @@
 
 E-Com site that sells food items. Stack is Django/Python, HTML/HTMX, and TailwindCSS. 
 
-##Need to:
+## Need to:
 ### Create models, views, routes, 
 
 
